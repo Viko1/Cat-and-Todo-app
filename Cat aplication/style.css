@@ -1,0 +1,30 @@
+.cat_image {
+    width: 20%;
+    color: white;
+}
+
+.card-img-top {
+    width: 80% !important;
+    justify-content: center;
+!important;
+}
+
+.card-text {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.card-title {
+    font-weight: bold;
+    display: block;
+    width: 237px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.btn-outline-success {
+    margin-left: 5px;
+}
